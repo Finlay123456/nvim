@@ -1,2 +1,2 @@
--- bootstrap lazy.nvim, LazyVim and your plugins
-require("config.lazy")
+require('goatNeovimConfig')
+print('LEARNING NEOVIM IS NOT GONNA SAVE YOU BRO')
